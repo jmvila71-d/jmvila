@@ -1,0 +1,6 @@
+{
+  "name": "ValoraECO",
+  "description": "Plataforma profesional de tasación y valoración inmobiliaria conforme a la Orden ECO/805/2003 y Ley 8/2007 de Suelo, con extracción OCR inteligente, trazabilidad de testigos y generación automática de informes PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
